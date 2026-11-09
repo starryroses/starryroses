@@ -54,7 +54,7 @@ class Rochana:
 
 ## Tech Stack
 
-![Tech](https://skillicons.dev/icons?i=python,cpp,fastapi,react,vite,tensorflow,sklearn,pandas,numpy,docker,aws,mysql,mongodb,postgres,git,github)
+![Tech](https://skillicons.dev/icons?i=python,cpp,fastapi,tensorflow,sklearn,pandas,numpy,docker,aws,mysql,mongodb,git,github)
 
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
