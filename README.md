@@ -40,7 +40,13 @@ class Rochana:
 
 - **Advanced RAG System**: hybrid BM25 + dense retrieval (ChromaDB), Reciprocal Rank Fusion, cross-encoder reranking, grounded answers with citation validation, evidence-inspector UI. *(Python, FastAPI, React, Groq API)*
 - **Turbofan Engine RUL Prediction**: ensemble models on NASA CMAPSS with SHAP explainability, conformal prediction intervals, Isolation Forest out-of-distribution detection, Streamlit dashboard. *(Scikit-learn, XGBoost, LightGBM)*
-- **LoRA Fine-Tuning with Unsloth**: 4-bit Qwen2.5-0.5B chat model, LoRA adapters, instruction dataset *(guided practice)*
+
+### More Projects 
+
+- **[LoRA Fine-Tuning with Unsloth](https://github.com/USERNAME/lora-fine-tune-a-tiny-chat-model-with-unsloth)**: end-to-end LoRA pipeline for a 4-bit quantized Qwen2.5-0.5B chat model. Loads the quantized base, attaches LoRA adapters, formats an instruction dataset, and runs fine-tuning. *(Python, Unsloth)*
+- **[House-Price Regression in Pure NumPy](https://github.com/USERNAME/numpy-house-price-regression)**: cleans tabular data, engineers derived and categorical features, uses a reproducible split, and fits OLS via the normal equation. *(NumPy)*
+- **[California Housing, End-to-End with scikit-learn](https://github.com/USERNAME/california-housing-end-to-end-with-scikit-learn)**: leak-free regression pipeline with an honest train/test split, following the Hands-On ML workflow. *(scikit-learn)*
+- **[Deep-ML Practice](https://github.com/USERNAME/deep-ml)**: my solutions, labs, and progress on ML problems from Deep-ML.
 
 ## Experience
 
