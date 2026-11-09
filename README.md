@@ -81,9 +81,12 @@ An explainable machine learning system for predicting remaining useful life of a
 - **Review of Gestational Diabetes Mellitus Prediction Models**: research co-author
 
 ## Tech Stack
+## Tech Stack
 
-![Tech](https://skillicons.dev/icons?i=python,cpp,fastapi,tensorflow,sklearn,pandas,numpy,docker,aws,mysql,mongodb,git,github)
+![Tech](https://skillicons.dev/icons?i=python,cpp,fastapi,tensorflow,sklearn,docker,aws,mysql,mongodb,git,github)
 
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
