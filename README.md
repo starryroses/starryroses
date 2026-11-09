@@ -1,13 +1,3 @@
-<!-- ============================================================
-  BEFORE YOU PASTE: use Find & Replace (Ctrl+H) in a text editor to swap:
-    starryroses           -> your exact GitHub starryroses
-    GroundRAG-Hybrid-Retrieval-Grounded-Generation-System        -> your RAG repo name
-    turbofan-rul-predictor        -> your predictive-maintenance repo name
-    https://www.linkedin.com/in/rochana-deshpande-79a40a2b2  -> your LinkedIn profile link
-    deshpanderochana@gmail.com         -> the email you want public (or delete that badge)
-  Delete these comment lines after, or leave them, they don't show up on GitHub.
-============================================================ -->
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Rochana%20Deshpande&fontSize=42&fontColor=ffffff&desc=AI%20%2F%20ML%20Engineer%20%7C%20RAG%20%7C%20LLMs%20%7C%20Researcher&descSize=16&descAlignY=65" width="100%" alt="Rochana Deshpande banner"/>
 
 <p align="center">
@@ -31,22 +21,56 @@ class Rochana:
 
 ## Featured Projects
 
-<a href="https://github.com/starryroses/GroundRAG-Hybrid-Retrieval-Grounded-Generation-System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?starryroses=starryroses&repo=GroundRAG-Hybrid-Retrieval-Grounded-Generation-System&theme=tokyonight&hide_border=true" alt="Advanced RAG project" />
-</a>
-<a href="https://github.com/starryroses/turbofan-rul-predictor">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?starryroses=starryroses&repo=turbofan-rul-predictor&theme=tokyonight&hide_border=true" alt="Predictive maintenance project" />
-</a>
 
-- **Advanced RAG System**: hybrid BM25 + dense retrieval (ChromaDB), Reciprocal Rank Fusion, cross-encoder reranking, grounded answers with citation validation, evidence-inspector UI. *(Python, FastAPI, React, Groq API)*
-- **Turbofan Engine RUL Prediction**: ensemble models on NASA CMAPSS with SHAP explainability, conformal prediction intervals, Isolation Forest out-of-distribution detection, Streamlit dashboard. *(Scikit-learn, XGBoost, LightGBM)*
+## Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Advanced RAG System
+
+A hybrid retrieval-augmented generation system designed for accurate, grounded responses.
+
+- BM25 + Dense Retrieval
+- ChromaDB
+- Reciprocal Rank Fusion
+- Cross-Encoder Reranking
+- Citation Validation
+- Evidence Inspector UI
+
+**Tech:** Python · FastAPI · React · Groq API
+
+[View Repository](https://github.com/starryroses/GroundRAG-Hybrid-Retrieval-Grounded-Generation-System)
+
+</td>
+<td width="50%" valign="top">
+
+### Turbofan Engine RUL Prediction
+
+An explainable machine learning system for predicting remaining useful life of aircraft engines.
+
+- NASA CMAPSS Dataset
+- Ensemble Models
+- SHAP Explainability
+- Conformal Prediction
+- Isolation Forest
+- Streamlit Dashboard
+
+**Tech:** Scikit-learn · XGBoost · LightGBM
+
+[View Repository](https://github.com/starryroses/turbofan-rul-predictor)
+
+</td>
+</tr>
+</table>
 
 ### More Projects 
 
-- **[LoRA Fine-Tuning with Unsloth](https://github.com/USERNAME/lora-fine-tune-a-tiny-chat-model-with-unsloth)**: end-to-end LoRA pipeline for a 4-bit quantized Qwen2.5-0.5B chat model. Loads the quantized base, attaches LoRA adapters, formats an instruction dataset, and runs fine-tuning. *(Python, Unsloth)*
-- **[House-Price Regression in Pure NumPy](https://github.com/USERNAME/numpy-house-price-regression)**: cleans tabular data, engineers derived and categorical features, uses a reproducible split, and fits OLS via the normal equation. *(NumPy)*
-- **[California Housing, End-to-End with scikit-learn](https://github.com/USERNAME/california-housing-end-to-end-with-scikit-learn)**: leak-free regression pipeline with an honest train/test split, following the Hands-On ML workflow. *(scikit-learn)*
-- **[Deep-ML Practice](https://github.com/USERNAME/deep-ml)**: my solutions, labs, and progress on ML problems from Deep-ML.
+- **[LoRA Fine-Tuning with Unsloth](https://github.com/starryroses/lora-fine-tune-a-tiny-chat-model-with-unsloth)**: end-to-end LoRA pipeline for a 4-bit quantized Qwen2.5-0.5B chat model. Loads the quantized base, attaches LoRA adapters, formats an instruction dataset, and runs fine-tuning. *(Python, Unsloth)*
+- **[House-Price Regression in Pure NumPy](https://github.com/starryroses/numpy-house-price-regression)**: cleans tabular data, engineers derived and categorical features, uses a reproducible split, and fits OLS via the normal equation. *(NumPy)*
+- **[California Housing, End-to-End with scikit-learn](https://github.com/starryroses/california-housing-end-to-end-with-scikit-learn)**: leak-free regression pipeline with an honest train/test split, following the Hands-On ML workflow. *(scikit-learn)*
+- **[Deep-ML Practice](https://github.com/starryroses/deep-ml)**: my solutions, labs, and progress on ML problems from Deep-ML.
 
 ## Experience
 
@@ -67,19 +91,6 @@ class Rochana:
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-## GitHub Stats
-
-<p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?starryroses=starryroses&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?starryroses=starryroses&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
-
-[![Streak](https://streak-stats.demolab.com?user=starryroses&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-## Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?starryroses=starryroses&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)
 
 ## Connect With Me
 
