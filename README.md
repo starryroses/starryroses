@@ -40,6 +40,7 @@ class Rochana:
 
 - **Advanced RAG System**: hybrid BM25 + dense retrieval (ChromaDB), Reciprocal Rank Fusion, cross-encoder reranking, grounded answers with citation validation, evidence-inspector UI. *(Python, FastAPI, React, Groq API)*
 - **Turbofan Engine RUL Prediction**: ensemble models on NASA CMAPSS with SHAP explainability, conformal prediction intervals, Isolation Forest out-of-distribution detection, Streamlit dashboard. *(Scikit-learn, XGBoost, LightGBM)*
+- **LoRA Fine-Tuning with Unsloth**: 4-bit Qwen2.5-0.5B chat model, LoRA adapters, instruction dataset *(guided practice)*
 
 ## Experience
 
