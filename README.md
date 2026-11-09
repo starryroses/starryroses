@@ -8,15 +8,32 @@
 
 ```python
 class Rochana:
-    role       = "B.Tech CS student @ MIT-WPU"
-    location   = "Pune, India"
-    building   = ["Hybrid-retrieval RAG systems",
-                  "Explainable ML for predictive maintenance",
-                  "LLM fine-tuning pipelines"]
-    research   = ["CIS-Swarm @ ASME IMECE 2026",
-                  "AI-driven legal research @ ICCCnet + SSRN"]
-    learning   = ["Agentic AI", "SQL & data pipelines", "System design"]
-    languages  = ["English", "Hindi", "Marathi", "Kannada", "German"]
+    name     = "Rochana Deshpande"
+    role     = "AI/ML Developer & Researcher"
+    studying = "B.Tech CS @ MIT-WPU (CGPA 8.87)"
+    location = "Pune, India"
+
+    experience = [
+        "AI/ML Intern @ Careasa Healthcare: LLM fine-tuning with Hugging Face, Unsloth & DeepSpeed",
+        "AI Developer @ Tata Technologies: Langflow/LangChain candidate-ranking pipeline",
+    ]
+
+    projects = {
+        "GroundRAG":        "Hybrid retrieval (BM25 + ChromaDB, RRF, cross-encoder rerank) with cited, grounded answers",
+        "Turbofan RUL":     "Predictive maintenance on NASA CMAPSS with SHAP, conformal intervals & OOD detection",
+        "LoRA Fine-Tuning": "4-bit Qwen2.5-0.5B chat model fine-tuned end to end with Unsloth",
+        "NumPy Regression": "House-price regressor built from scratch in pure NumPy",
+        "California Housing": "Leak-proof end-to-end regression pipeline in scikit-learn",
+    }
+
+    research = [
+        "CIS-Swarm: bio-inspired resilience for drone swarms @ ASME IMECE 2026",
+        "AI-driven legal research & sustainability @ ICCCnet (SSRN)",
+        "Review of Gestational Diabetes prediction models (co-author)",
+    ]
+
+    learning  = ["Agentic AI", "SQL & data pipelines", "ML Systems design"]
+    languages = ["English", "Hindi", "Marathi", "Kannada", "German"]
 ```
 
 ## Featured Projects
