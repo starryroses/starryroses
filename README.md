@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Rochana%20Deshpande&fontSize=42&fontColor=ffffff&desc=AI%20%2F%20ML%20Engineer%20%7C%20RAG%20%7C%20LLMs%20%7C%20Researcher&descSize=16&descAlignY=65" width="100%" alt="Rochana Deshpande banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Rochana%20Deshpande&fontSize=42&fontColor=ffffff&desc=AIML%20Developer%20%7C%20Researcher&descSize=16&descAlignY=65" width="100%" alt="Rochana Deshpande banner"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2C5364&center=true&vCenter=true&width=650&lines=Building+RAG+%26+LLM+systems;Explainable+ML+for+predictive+maintenance;Researcher+%7C+ASME+IMECE+2026+%7C+SSRN" alt="Typing animation" />
